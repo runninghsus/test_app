@@ -1,0 +1,11 @@
+pandas
+tqdm
+matplotlib
+opencv-python
+ffmpeg-python
+seaborn
+scikit-learn
+networkx
+umap-learn
+hdbscan
+streamlit
