@@ -17,6 +17,8 @@ networkx = "*"
 umap-learn = "*"
 hdbscan = "*"
 streamlit = "*"
+opencv-python-headles = "*"
+opencv-python-headless = "*"
 
 [requires]
 python_version = "3.7"
