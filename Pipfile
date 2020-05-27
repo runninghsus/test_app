@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+tqdm = "*"
+matplotlib = "*"
+opencv-python = "*"
+ffmpeg-python = "*"
+seaborn = "*"
+scikit-learn = "*"
+networkx = "*"
+umap-learn = "*"
+hdbscan = "*"
+streamlit = "*"
+
+[requires]
+python_version = "3.7"
